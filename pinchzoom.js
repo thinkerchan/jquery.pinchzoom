@@ -22,7 +22,7 @@
         maxZoom:3,
         minZoom:.5,
         lockDragAxis:false,
-        use2d:true;
+        use2d:true
       },
       handleDragStart:function(event) {
         this.stopAnimation();
